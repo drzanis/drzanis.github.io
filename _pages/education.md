@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Education"
 permalink: /education/
 ---
@@ -32,7 +32,7 @@ permalink: /education/
     </td>
   </tr>
   <tr>
-    <td><img src="/images/education/fui.png" alt="Foundation University Islamabad" width="50"/></td>
+    <td><img src="/images/education/fui.jpg" alt="Foundation University Islamabad" width="50"/></td>
     <td>
       <strong>Bachelor of Computer Software Engineering</strong><br/>
       Foundation University Islamabad, Pakistan<br/>
