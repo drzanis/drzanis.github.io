@@ -22,7 +22,8 @@ main:
   #  url: /teaching/    
     
   - title: "Resume"
-    url: /files/zanis_cv.pdf
+#    url: /files/zanis_cv.pdf
+    url: /resume/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
