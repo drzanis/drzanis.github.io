@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Luxembourg"
-  employer         : "Luxembourg Institute of Science and Technology (LIST)"
+  # employer         : "Luxembourg Institute of Science and Technology (LIST)"
   uri              : # URL
   email            : "zanis-ali.khan@list.lu" 
 
