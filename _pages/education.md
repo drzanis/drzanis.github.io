@@ -13,6 +13,14 @@ permalink: /education/
       <em>November 2019 – November 2023</em>
     </td>
   </tr>
+    <tr>
+    <td><img src="/images/education/tartu.png" alt="University of Tartu" width="50"/></td>
+    <td>
+      <strong>Master's in Computer Engineering (ERASMUS+)</strong><br/>
+      University of Tartu, Estonia<br/>
+      <em>2018 – 2019</em>
+    </td>
+  </tr>
   <tr>
     <td><img src="/images/education/sapienza.png" alt="Sapienza University of Rome" width="50"/></td>
     <td>
@@ -22,19 +30,11 @@ permalink: /education/
     </td>
   </tr>
   <tr>
-    <td><img src="/images/education/tartu.png" alt="University of Tartu" width="50"/></td>
-    <td>
-      <strong>Master's in Computer Engineering (ERASMUS+)</strong><br/>
-      University of Tartu, Estonia<br/>
-      <em>2018 – 2019</em>
-    </td>
-  </tr>
-  <tr>
     <td><img src="/images/education/fui.jpg" alt="Foundation University Islamabad" width="50"/></td>
     <td>
       <strong>Bachelor of Computer Software Engineering</strong><br/>
       Foundation University Islamabad, Pakistan<br/>
-      <em>2012 – 2016</em>
+      <em>2011 – 2015</em>
     </td>
   </tr>
 </table>
