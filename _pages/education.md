@@ -4,8 +4,6 @@ title: "Education"
 permalink: /education/
 ---
 
-## 🎓 Education
-
 <table>
   <tr>
     <td width="60"><img src="/images/education/luxembourg.png" alt="University of Luxembourg" width="50"/></td>
