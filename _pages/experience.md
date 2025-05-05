@@ -20,6 +20,8 @@ As a Research & Technology Specialist, I am engaged in cutting-edge research in 
 **November 2019 - October 2023**  
 During my PhD, I focused on **log parsing** and developing **Deep Learning-based anomaly detection systems** to enhance security testing. I contributed to several key research projects aimed at improving software validation methods. My research also explored the intersection of **Machine Learning** and **Software Security**, where I developed techniques to detect anomalies autonomously. I was also involved in publishing multiple research papers in international journals and conferences.
 
-### Software Developer | [Company Name]  
-**2015 - 2018**  
-As a Software Developer, I worked on **vulnerability detection** systems and contributed to **software development** projects focused on **security**. My role involved writing efficient code, conducting software testing, and collaborating with security teams to ensure the applications were secure and robust. I gained valuable experience in **quality assurance (QA)** and **security testing** methodologies.
+### Software Developer | [Softflix Software Solutions]  
+**September 2017 - October 2019**  
+As a Flutter/Dart Developer, I worked on developing high-performance, cross-platform mobile applications. My role involved writing clean and efficient code using Flutter and Dart, ensuring the apps provided a seamless experience on both iOS and Android. I contributed to the full mobile app development lifecycle, including UI/UX design, API integration, and performance optimization.
+
+I also collaborated closely with the development and testing teams to conduct unit testing, debugging, and bug fixing to ensure the applications were secure, stable, and user-friendly. My work involved integrating security measures to protect sensitive user data, along with ensuring compliance with industry standards and guidelines. This experience also gave me exposure to version control systems like Git, mobile app deployment processes, and CI/CD pipelines for automated testing and delivery.
