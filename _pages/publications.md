@@ -24,3 +24,5 @@ I have contributed to numerous publications in the fields of **Log Parsing**, **
 - **A theoretical framework for understanding the relationship between log parsing and anomaly detection**. Donghwan Shin, <span style="color: blue; font-weight: bold; font-style: italic;">Zanis Ali Khan</span>, Domenico Bianculli, Lionel Briand. In *Proceedings of the 21st International Conference on Runtime Verification (RV’21)*, 2021  
   [View on Springer Nature](https://link.springer.com/chapter/10.1007/978-3-030-88494-9_16)
 
+### Ph.D. Thesis
+- **On log parsing and log-based anomaly detection: an empirical evaluation**. <span style="color: blue; font-weight: bold; font-style: italic;">Zanis Ali Khan</span>. *PhD Dissertation (2023), University of Luxembourg*. [OrbiLu Link](https://orbilu.uni.lu/handle/10993/60158)  
