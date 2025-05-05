@@ -17,7 +17,7 @@ I have contributed to numerous publications in the fields of **Log Parsing**, **
 
 ### Journal Articles
 - **Impact of log parsing on deep learning‑based anomaly detection**  
-  *Empirical Software Engineering*, 2024 [View on Google Scholar](https://scholar.google.com/scholar?cluster=11391212287896445197)
+  *Empirical Software Engineering*, 2024 [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=meBzaLcAAAAJ&citation_for_view=meBzaLcAAAAJ:UeHWp8X0CEIC)
 
 ### Conference Papers
 - **A theoretical framework for understanding the relationship between log parsing and anomaly detection**  
