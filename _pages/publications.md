@@ -17,10 +17,10 @@ I have contributed to numerous publications in the fields of **Log Parsing**, **
 
 ### Journal Articles
 - **Impact of log parsing on deep learning‑based anomaly detection**  
-  *Empirical Software Engineering (ICSE 2024)* [View on Springer Nature](https://link.springer.com/article/10.1007/s10664-024-10533-w)
+  *Empirical Software Engineering (EMSE 2024)* [View on Springer Nature](https://link.springer.com/article/10.1007/s10664-024-10533-w)
 
 ### Conference Papers
-- **Guidelines for assessing the accuracy of log message template identification techniques**. **Zanis Ali Khan**, Donghwan Shin, Domenico Bianculli, Lionel Briand. *44th International Conference on Software Engineering (ICSE)* [View on ACM Digital Lib.](https://dl.acm.org/doi/abs/10.1145/3510003.3510101)
+- **Guidelines for assessing the accuracy of log message template identification techniques**. **Zanis Ali Khan**, Donghwan Shin, Domenico Bianculli, Lionel Briand. *44th International Conference on Software Engineering (ICSE 2022)* [View on ACM Digital Lib.](https://dl.acm.org/doi/abs/10.1145/3510003.3510101)
 
 - **A theoretical framework for understanding the relationship between log parsing and anomaly detection**. Donghwan Shin, **Zanis Ali Khan**, Domenico Bianculli, Lionel Briand. In *Proceedings of the 21st International Conference on Runtime Verification (RV’21)*, 2021  
   [View on Springer Nature](https://link.springer.com/chapter/10.1007/978-3-030-88494-9_16)
