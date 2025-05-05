@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## 📚 Publications
 
-I have contributed to numerous publications in the fields of **Log Parsing**, **Log‑based Anomaly Detection**, and **Vulnerability Detection & Patching using LLMs (AI)**. Below is a categorized list. If this page does not render properly, you can view all my works on [Google Scholar](https://scholar.google.com/citations?user=meBzaLcAAAAJ&hl=en&oi=ao).
+I have contributed to numerous publications in the fields of **Log Parsing**, **Log‑based Anomaly Detection**, and **Vulnerability Detection & Patching using LLMs (AI)**. Below is a categorized list. You can view all my works on [Google Scholar](https://scholar.google.com/citations?user=meBzaLcAAAAJ&hl=en&oi=ao).
 
 ### Papers Under Review
 - **Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**. <span style="color: blue; font-weight: bold; font-style: italic;">Zanis Ali Khan</span>, Aayush Garg, Yuejun Guo, Qiang Tang. (Under Review)
