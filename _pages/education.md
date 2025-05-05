@@ -18,7 +18,7 @@ permalink: /education/
   <tr>
     <td><img src="/images/education/sapienza.png" alt="Sapienza University of Rome" width="50"/></td>
     <td>
-      <strong>Master of Technology in Computer Engineering</strong><br/>
+      <strong>Master's in Computer Engineering</strong><br/>
       Sapienza University of Rome, Italy<br/>
       <em>2016 – 2018</em>
     </td>
@@ -26,7 +26,7 @@ permalink: /education/
   <tr>
     <td><img src="/images/education/tartu.png" alt="University of Tartu" width="50"/></td>
     <td>
-      <strong>Master of Technology in Computer Engineering (ERASMUS+)</strong><br/>
+      <strong>Master's in Computer Engineering (ERASMUS+)</strong><br/>
       University of Tartu, Estonia<br/>
       <em>2018 – 2019</em>
     </td>
