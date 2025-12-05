@@ -29,7 +29,7 @@ Below is a curated list of my **invited talks**, and **conference presentations*
 
 - **Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques**  
   *44th International Conference on Software Engineering (ICSE 2022)*  
-- **📍 Location:** *Pittsburg, USA [Vitrual]*  
+- **📍 Location:** *Pittsburg, USA [Virtual]*  
   Authors: Zanis Ali Khan, Donghwan Shin, Domenico Bianculli, Lionel Briand  
   [View on ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3510003.3510101)
 
