@@ -39,7 +39,7 @@ Below is a curated list of my **invited talks**, and **conference presentations*
 
 - **On Log Parsing and Log-based Anomaly Detection: An Empirical Evaluation**  
   *PhD Dissertation Defense, University of Luxembourg (2023)*  
-  **📍 Location:** *Luxembourg, Luxembourg*  
+- **📍 Location:** *Luxembourg, Luxembourg*  
 - Author: Zanis Ali Khan  
   [OrbiLu Link](https://orbilu.uni.lu/handle/10993/60158)
 
