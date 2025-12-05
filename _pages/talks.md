@@ -46,7 +46,6 @@ Below is a curated list of my **invited talks**, and **conference presentations*
 
   <br>
 
-  **🔗 LinkedIn Post:**  
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7133378806005821440?collapsed=1" height="512" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
