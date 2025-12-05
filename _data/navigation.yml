@@ -18,11 +18,12 @@ main:
   - title: "Education"
     url: /education/    
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Talks"
+    url: /talks/
     
   - title: "Resume"
     url: /resume/
+
   
         
 #  - title: "Blog Posts"
